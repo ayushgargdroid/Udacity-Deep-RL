@@ -23,6 +23,7 @@ lib64/
 parts/
 sdist/
 var/
+p1_navigation/Banana_Linux/
 wheels/
 *.egg-info/
 .installed.cfg
